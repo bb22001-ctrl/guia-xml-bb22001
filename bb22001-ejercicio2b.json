@@ -1,0 +1,21 @@
+{
+  "pais": {
+    "nombre": "El Salvador",
+    "moneda": "USD",
+    "codigoTelefonico": "+503",
+    "departamentos": [
+      {
+        "nombre": "San Salvador",
+        "cabecera": "San Salvador"
+      },
+      {
+        "nombre": "La Libertad",
+        "cabecera": "Santa Tecla"
+      },
+      {
+        "nombre": "San Miguel",
+        "cabecera": "San Miguel"
+      }
+    ]
+  }
+}

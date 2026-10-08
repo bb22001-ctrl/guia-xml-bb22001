@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="bb22001-ejercicio1b.css"?>
+<!-- ejercicio1b.xml BB22001 -->
+<fichero>
+  <ficha id="1" fechaingreso="1/11/2012">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+  </ficha>
+
+  <ficha id="2" fechaingreso="05/10/2026">
+    <nombre>TuNombre</nombre>
+    <apellido>TuApellido</apellido>
+    <direccion>San Salvador, El Salvador</direccion>
+    <telefonos>
+      <telefono tipo="movil">7000-0000</telefono>
+    </telefonos>
+    <email>tu.correo@estudiante.ues.edu.sv</email>
+    <website url="http://xml.bb22001.tpi">Mi Sitio Web</website>
+  </ficha>
+
+  <ficha id="3" fechaingreso="06/10/2026">
+    <nombre>Carlos</nombre>
+    <apellido>Gómez</apellido>
+    <direccion>Santa Ana, El Salvador</direccion>
+    <telefonos>
+      <telefono tipo="casa">2200-0000</telefono>
+    </telefonos>
+    <email>carlos.gomez@gmail.com</email>
+    <website url="https://carlosgomez.dev">Portafolio</website>
+    <!-- Nuevas etiquetas para documentacion personal -->
+    <documentacion>
+      <documento tipo="dui">01234567-8</documento>
+      <documento tipo="isss">123456789</documento>
+      <documento tipo="afp" entidad="Crecer">NUP123456789012</documento>
+    </documentacion>
+  </ficha>
+</fichero>

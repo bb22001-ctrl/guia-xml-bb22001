@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="BB22001-ejercicio2b.css"?>
+<!-- BB22001 - Carlos Darwin Beltrán Blanco -->
+<pais nombre="El Salvador">
+
+    <moneda>USD</moneda>
+    <codigoTelefonico>+503</codigoTelefonico>
+
+    <idiomas>
+        <oficial>Español</oficial>
+        <segundoIdioma>Inglés</segundoIdioma>
+        <autoctono>Náhuat</autoctono>
+    </idiomas>
+
+    <areaTerritorial>21041 km2</areaTerritorial>
+
+    <departamentos>
+
+        <departamento id="1">
+            <nombre>San Salvador</nombre>
+            <cabecera>San Salvador</cabecera>
+            <habitantes>1700000</habitantes>
+            <altura>545 MSNM</altura>
+        </departamento>
+
+        <departamento id="2">
+            <nombre>La Libertad</nombre>
+            <cabecera>Santa Tecla</cabecera>
+            <habitantes>850000</habitantes>
+            <altura>920 MSNM</altura>
+        </departamento>
+
+        <departamento id="3">
+            <nombre>San Miguel</nombre>
+            <cabecera>San Miguel</cabecera>
+            <habitantes>520000</habitantes>
+            <altura>110 MSNM</altura>
+        </departamento>
+
+    </departamentos>
+
+</pais>

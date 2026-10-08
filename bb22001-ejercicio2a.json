@@ -1,0 +1,21 @@
+{
+  "pais": {
+    "nombre": "El Salvador",
+    "moneda": "USD",
+    "codigoTelefonico": "+503",
+    "idiomas": {
+      "oficial": "Español",
+      "segundoIdioma": "Inglés",
+      "autoctono": "Náhuat"
+    },
+    "areaTerritorial": "21041 km2",
+    "departamentos": [
+      {
+        "nombre": "San Salvador"
+      },
+      {
+        "nombre": "La Libertad"
+      }
+    ]
+  }
+}
